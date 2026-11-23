@@ -1,5 +1,7 @@
 # Learn C
 
+Repo « c-workshop » is the collection of lessons & exercises that I self-learn C programming language. Exercises comes from various sources, and the lessons are collection of example, playground and mini programs in referenced books & courses.
+
 ## Books:
 
 	- N.N.King, C Programming: A Modern Approach
