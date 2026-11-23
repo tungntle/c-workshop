@@ -36,38 +36,38 @@ Shortcut of sources:
 
 ## Split
 
-### Week 1: 09 - 15 Nov / 26
+### 26W01/ 09 - 15 Nov
 
 	- Establish the environment and set up schedule.
 	- Main topics: variables, format IO, expressions, branching
 
-### Week 2: 16 - 22 Nov / 26
+### 26W02/ 16 - 22 Nov
 
 	- Main topics: Loops & Types
 	- Gather resources, especially exercises
 
-### Week 3: 23 - 29 Nov / 26
+### 26W03/ 23 - 29 Nov
 
 	- Main topics: Arrays, Functions, Introduction to Pointers
 	- Other: More exercises of branching, loops
 
-### Week 4: 30 Nov - 06 Dec / 26
+### 26W04/ 30 Nov - 06 Dec
 
 	- To be updated
 
-### Week 5: 07 - 13 Dec / 26
+### 26W05/ 07 - 13 Dec
 
 	- To be updated
 
-### Week 6: 14 - 20 Dec / 26
+### 26W06/ 14 - 20 Dec
 
 	- To be updated
 
-### Week 7: 21 - 27 Dec / 26
+### 26W07/ 21 - 27 Dec
 
 	- To be updated
 
-### Week 8: 28 Dec - 03 Sun / 26
+### 27W08/ 28 Dec - 03 Sun
 
 	- To be updated
 
