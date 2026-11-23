@@ -1,8 +1,10 @@
-Date,Time,Content
+Date,Time,Chapter,Content
 2026-11-09,1,C2. Fundamental & Exercises
 2026-11-10,1,C3. Format Input & Output
 2026-11-11,1.5,C3. Exercise
 2026-11-12,1,C4. Expressions
 2026-11-14,4,C5. Selection statements
+
 2026-11-16,1.5,C6. Loops
-2026-11-21,2,C6. Loops exercises
+2026-11-21,2,C6. Loops exercises & C7. Types
+2026-11-22,1,Exercise
