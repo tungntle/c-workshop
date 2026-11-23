@@ -51,7 +51,7 @@ Shortcut of sources:
 	- Main topics: Arrays, Functions, Introduction to Pointers
 	- Other: More exercises of branching, loops
 
-### 26W04/ 30 Nov - 06 Dec
+### 26W04/ 30 - 06 Dec
 
 	- To be updated
 
@@ -67,7 +67,7 @@ Shortcut of sources:
 
 	- To be updated
 
-### 27W08/ 28 Dec - 03 Sun
+### 27W08/ 28 - 03 Jan
 
 	- To be updated
 
